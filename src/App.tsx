@@ -175,11 +175,11 @@ export default function App() {
                 </h3>
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 xl:grid-cols-3 gap-8 md:gap-10">
                   {[
-                    { name: "Gabardina", img: IMAGES.piece1 },
-                    { name: "The Knit", img: IMAGES.piece2 },
-                    { name: "Trousers", img: IMAGES.piece3 },
-                    { name: "The Bag", img: IMAGES.piece4 },
-                    { name: "The Shoes", img: IMAGES.piece5 }
+                    { name: "Gabardina Corta", img: IMAGES.piece1 },
+                    { name: "Jersey", img: IMAGES.piece2 },
+                    { name: "Pantalón glovo", img: IMAGES.piece3 },
+                    { name: "Bolso Tejido", img: IMAGES.piece4 },
+                    { name: "Mule Puntiagudo", img: IMAGES.piece5 }
                   ].map((item, i) => (
                     <motion.div 
                       key={i}
