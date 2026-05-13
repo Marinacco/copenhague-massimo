@@ -101,7 +101,7 @@ export default function App() {
           {/* Section 2: Mountain Dwelling */}
           <section className="flex flex-col gap-12 lg:gap-16 items-center">
             <FadeIn>
-              <h2 className="text-sm tracking-[0.15em] font-medium uppercase text-center text-cph-espresso">Mountain Dwelling: La vida en la selva</h2>
+              <h2 className="text-sm tracking-[0.15em] font-medium uppercase text-center text-cph-espresso">Mountain Dwelling: la vida en la naturaleza nórdica </h2>
             </FadeIn>
             
             <div className="flex flex-col w-full max-w-[1400px] shadow-sm border border-black/5 items-stretch">
