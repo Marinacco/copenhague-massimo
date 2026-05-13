@@ -178,7 +178,7 @@ export default function App() {
                     { name: "Gabardina Corta", img: IMAGES.piece1 },
                     { name: "Jersey", img: IMAGES.piece2 },
                     { name: "Pantalón glovo", img: IMAGES.piece3 },
-                    { name: "Bolso Tejido", img: IMAGES.piece4 },
+                    { name: "Bolso de Ante", img: IMAGES.piece4 },
                     { name: "Mule Puntiagudo", img: IMAGES.piece5 }
                   ].map((item, i) => (
                     <motion.div 
