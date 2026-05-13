@@ -168,14 +168,14 @@ export default function App() {
             {/* Top: 5 Pieces & Fashion Model */}
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-24 items-center">
               
-              {/* 5 Piezas Claves */}
+              {/* 5 Piezas Clave */}
               <FadeIn delay={0.3} className="w-full order-2 lg:order-1">
                 <h3 className="text-3xl md:text-4xl lg:text-5xl tracking-[0.15em] font-light uppercase mb-12 text-center lg:text-left text-black">
-                  5 Piezas Claves
+                  5 Piezas Clave
                 </h3>
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 xl:grid-cols-3 gap-8 md:gap-10">
                   {[
-                    { name: "The Coat", img: IMAGES.piece1 },
+                    { name: "Gabardina", img: IMAGES.piece1 },
                     { name: "The Knit", img: IMAGES.piece2 },
                     { name: "Trousers", img: IMAGES.piece3 },
                     { name: "The Bag", img: IMAGES.piece4 },
